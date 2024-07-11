@@ -38,7 +38,7 @@
     <p>If you want to run our project in your local machine</p>
     <p>Follow the given steps:</p>
     <ul>
-        <li>Clone our respository <a href="https://github.com/nikitha-goswami/Lenskart-Clone/">https://github.com/nikitha-goswami/Lenskart-Clone/</a></li>
+        <li>Clone our respository <a href="https://github.com/nikitha-goswami/Lenskart-Clone.git">https://github.com/nikitha-goswami/Lenskart-Clone.git/</a></li>
         <li>Open our code in VS code </li>
  <li>Then do npm install</li>
         <li>Then Initialize the server by writing 'npm run start' on Terminal</li>
